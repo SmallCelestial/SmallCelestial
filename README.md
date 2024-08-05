@@ -1,5 +1,7 @@
-### Hi there 👋
-- 🌱 I’m currently learning mathematics and programming.
+
+Hi there 👋
+🌱 I’m currently learning mathematics and programming.
+📧 This is my new account, as my old one was tied to my university email address.
 
 <!--
 **SmallCelestial/SmallCelestial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
