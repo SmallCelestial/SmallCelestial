@@ -2,7 +2,6 @@
 Hi there 👋
 
 - 🌱 I’m currently learning mathematics and programming.
-- 📧 This is my new account.
 
 <!--
 **SmallCelestial/SmallCelestial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
