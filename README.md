@@ -1,19 +1,15 @@
+### Hi, I'm Mateusz 👋
 
-Hi there 👋
+Software Engineer at **BeBio** — Kotlin/Spring Boot backends and AI-agent workflows. MEng in Machine Learning & AI from AGH University of Krakow.
 
-- 🌱 I’m currently learning mathematics and programming.
+- 🏗️ Backend architecture in **Kotlin & Spring Boot** — hexagonal, modular monolith, on Azure
+- 🤖 AI-assisted engineering — **Claude Code** skills, multi-agent code review, LLM-agent pipelines with evaluation
+- 🎓 Thesis — reinforcement-learning fine-tuning of diffusion models for speech enhancement
+- 🏆 2nd place, Goldman Sachs "AI Control Layer" challenge @ HackYeah 2026 → [bezpiecznik](https://github.com/SmallCelestial/bezpiecznik) · 3rd place, Kościuszkon 4.0
+- 🎤 Speaker — Claude Community Kraków #2
 
-<!--
-**SmallCelestial/SmallCelestial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stack:** Kotlin · Java · Python · Spring Boot · PostgreSQL · Azure · Kubernetes · Docker · PyTorch · Claude Code
 
-Here are some ideas to get you started:
+Most of my day-to-day work lives in private company repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/mateuszoracz)
